@@ -3,8 +3,8 @@
 
 ## </> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=syams21&theme=omni&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syams21&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=syams21&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=syams21&theme=omni&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=syams21&theme=omni&hide_border=true)<br/>
 
 ## </> Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syamsularifin21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syamsularifin21) 
