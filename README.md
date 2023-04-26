@@ -1,5 +1,7 @@
 ## </> About Me:
-🌱 I’m currently learning C++, Python, JavaScript and Linux<br>💬 How to reach me -  syams21.dev@gmail.com<br>⚡ Fun fact - I don't make mistakes, I date them
+⬥ I’m currently learning C++, Python, JavaScript and Linux<br>
+⬥ How to reach me -  syams21.dev@gmail.com<br>
+⬥ Fun fact - I don't make mistakes, I date them
 
 ## </> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=syams21&theme=omni&hide_border=true&include_all_commits=false&count_private=false)
