@@ -2,8 +2,8 @@
 Hello, my name is **Syams**! in other countries my name uses H (Shams)<br>
 
 ⬥ I'm used to making anything that's in my mind<br>
-⬥ How to reach me -  **syams21.dev@gmail.com**<br>
-⬥ Fun fact - I don't make mistakes, I date them
+⬥ Fun fact - I don't make mistakes, I date them<br>
+⬥ How to reach me -  **syams21.dev@gmail.com**
 
 ## </> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=syams21&theme=omni&hide_border=true&include_all_commits=false&count_private=false)
