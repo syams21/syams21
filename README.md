@@ -1,7 +1,7 @@
 ## </> About Me:
 Hello, my name is **Syams**! in other countries my name uses H (Shams)<br>
 
-⬥ I’m currently learning C++, Python, JavaScript and Linux<br>
+⬥ I'm used to making anything that's in my mind<br>
 ⬥ How to reach me -  **syams21.dev@gmail.com**<br>
 ⬥ Fun fact - I don't make mistakes, I date them
 
