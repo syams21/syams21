@@ -9,7 +9,7 @@ Hello, my name is **Syams**! in other countries my name uses H (Shams)<br>
 ![](https://github-readme-stats.vercel.app/api?username=syams21&theme=omni&hide_border=true&include_all_commits=false&count_private=false&card_width=421)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syams21&theme=omni&hide_border=true&card_width=421)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syams21&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=421)
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/vim4TWKwY5MAAAAd/discord-hacking.gif">
+<img align="right" alt="coding" width="100" src="https://media.tenor.com/RpXukdyagxsAAAAj/angry-fox.gif">
 
 
 ## </> Socials:
