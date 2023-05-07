@@ -1,11 +1,7 @@
-<img align="right" width="1500" height="250" src="https://media.tenor.com/vim4TWKwY5MAAAAd/discord-hacking.gif">
-
-<br>
-
 ## </> About Me:
 Hello, my name is **Syams**! in other countries my name uses H (Shams)<br>
 
-⬥ I'm used to making anything that's in my mind<br> <img align="right" width="100" src="https://media.tenor.com/6cmcx2wAEG4AAAAj/sleepy-cat.gif">
+⬥ I'm used to making anything that's in my mind<br> <img align="right" width="100" src="https://media.tenor.com/voem0bj7Y68AAAAj/idea-mafumafu.gif">
 ⬥ Fun fact - I don't make mistakes, I date them<br>
 ⬥ How to reach me -  **syams21.dev@gmail.com**
 
