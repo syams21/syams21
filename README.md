@@ -8,7 +8,6 @@ hello, my name is **Syams**! in other countries my name uses H (Shams)<br>
 
 ## </> GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syams21&theme=omni&hide_border=true&card_width=420)
-![](https://github-readme-stats.vercel.app/api?username=syams21&theme=omni&hide_border=true&include_all_commits=false&count_private=true&card_width=420)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syams21&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=420)
 ---
 [![](https://visitcount.itsvg.in/api?id=syams21&icon=5&color=12)](https://visitcount.itsvg.in)
