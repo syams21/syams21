@@ -3,7 +3,7 @@ hello, my name is **Syams**! in other countries my name uses H (Shams)<br>
 <img align="right" width="100" src="https://media.tenor.com/voem0bj7Y68AAAAj/idea-mafumafu.gif">
 
 ⬥ I'm used to making anything that's in my mind<br>
-⬥ actually.. I don't make mistakes, I date them..<br>
+⬥ accustomed to dating mistakes<br>
 ⬥ how to reach me -  **syams21.dev@gmail.com**<br>
 
 ## </> GitHub Stats:
