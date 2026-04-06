@@ -1,9 +1,7 @@
 ## </> About Me:
-Hello, my name is **Syams**, I'm passionate about crafting code (software development) and bringing designs to life
+Hello World!
 <br>
-
-⬥ I'm used to making anything that's in my mind<br>
-⬥ how to reach me -  **syams.authority@gmail.com**
+**voidsyams@gmail.com**
 <br>
 
 ## </> GitHub Stats:
